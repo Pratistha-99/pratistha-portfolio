@@ -29,8 +29,8 @@ with st.sidebar:
     st.markdown(
         """
         **Location:** Paris, France  
-        **Email:** [prtsthapa99@gmail.com](mailto:prtsthapa99@gmail.com)  
-        **Phone:** +33 6 16 16 23 89
+        **Email:** [thepratisthathapa@gmail.com](mailto:thepratisthathapa@gmail.com)  
+        **Phone:** +33 06 26 83 11 81
         """
     )
 
